@@ -35,12 +35,12 @@ cd grpc-library-system
 
 2. Start the Ballerina server:
 ```bash
-bal run server
+bal run libararymanagementserver_server
 ```
 
 3. Start the Ballerina Client:
 ```bash
-bal run client
+bal run libararymanagementserver_client
 ```
 
 ## Protocol Buffers Contract
